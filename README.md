@@ -8,15 +8,23 @@ Het geeft dus alleen hulp voor bestaande partijen die nu (2025/08) in de kamer z
 
 Het programma moet gezien worden als een vingeroefening. Het is niet monkey proof. En ook kunnen geen enkele claims ingediend worden. Het is as-is.
 
+
 Bediening:
 
-Na het starten van het programma (en het lezen van de inleiding) kan linksonder ingesteld worden welke Kamerstukken getoond moeten worden. NB Gezien het aantal stukken ter overweging om alleen de moties te bekijken. Daarna op start drukken om het programma daadwerkelikk te starten.
+Na het starten van het programma (en het lezen van de inleiding) kan linksonder ingesteld worden welke Kamerstukken getoond moeten worden. NB Gezien het aantal stukken ter overweging om alleen de moties te bekijken/beoordelen. Daarna op start drukken om het programma daadwerkelikk te starten.
 
 Per Kamerstuk kan men 'voor' of 'tegen' stemmen. Ook kan men 'niet stemmen'. In dit geval wordt de stemming niet meegeteld.
 
 Letop De stem wordt (pas) vastgelegd op moment dat men met de knop 'Volgende' naar het volgende kamerstuk gaat. Het is niet mogelijk terug te stappen.
 
+In het programma wordt alleen de titel getoond van het Kamerstuk. Indien meer informatie gewenst is kan door op de knop 'meer informatie' meer informatie on-line worden opgehaald en dit wordt getoond in de browser. NB Hier is een internetverbinding voor nodig.
 
+Als alle stukken beoordeeld zijn of men er mee wil stoppen kan men de tussen/eindstand zien in het tekstscherm rechtsonder. De partij(en) met de meeste matches komt het meest overeen met de keuzes van de gebruiker van dit programma.
+
+
+Opmerkingen:
+
+--
 
 
 Veel plezier er mee.
