@@ -21,6 +21,8 @@ In het programma wordt alleen de titel getoond van het Kamerstuk. Indien meer in
 
 Als alle stukken beoordeeld zijn of men wil er mee stoppen dan kan men de tussen/eindstand zien in het tekstscherm rechtsonder. In het geval er eerder mee stoppen dient men op de knop 'tussen'eindstand' te klikken. De partij(en) met de meeste matches komt het meest overeen met de keuzes van de gebruiker van dit programma.
 
+Als de checkbox 'Spieken' wordt aangevinkt dan wordt informatie gegeven waar zojuist over gestemd is. 
+
 
 Opmerkingen:
 
