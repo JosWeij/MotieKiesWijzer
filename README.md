@@ -1,6 +1,5 @@
-Dit is een readme in ontwikkeling.
 
-Het MotieKiesWijzer programma is een kieshulp voor de TweedeKamer-verkiezingen in november 2025.
+Het MotieKiesWijzer (Windows) programma is een kieshulp voor de TweedeKamer-verkiezingen in november 2025.
 
 De hulp is niet gebaseerd op plannen/voornemens/beloften van de verschillende politieke partijen maar op het daadwerkelijke stemgedrag van partijen in de Tweede Kamer aangaande moties en amendementen van het afgelopen jaar (tot 20250801 volgens Openkamer.org). Dus wat ze in de praktijk doen.
 
@@ -26,7 +25,7 @@ Als de checkbox 'Spieken' wordt aangevinkt dan wordt informatie gegeven waar zoj
 
 Opmerkingen:
 
---
+Het kan zijn dat men na het downloaden van het Windowsprogramma MotieKiesWijzer.exe een waarschuwing van Windows krijgt. Dit kan men negeren. Eventueel kun je met de CRC informatie in CRC.txt controleren of er iets aan het programma veranderd is.  
 
 
 Veel plezier er mee.
