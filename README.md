@@ -1,4 +1,4 @@
-Om het programma MotieKiesWijzer te download: Klik op 'MotieKiesWijzer.exe' en in het volgende scherm op het 'download' knopje. 
+Om het programma MotieKiesWijzer te downloaden: Klik op 'MotieKiesWijzer.exe' en in het volgende scherm op het 'download' knopje. 
 
 
 Het MotieKiesWijzer (Windows) programma is een kieshulp voor de TweedeKamer-verkiezingen in october 2025.
@@ -20,14 +20,14 @@ Letop De stem wordt (pas) vastgelegd op moment dat men met de knop 'Volgende' na
 
 In het programma wordt alleen de titel getoond van het Kamerstuk. Indien meer informatie gewenst is kan door op de knop 'meer informatie' informatie zoals de gehele tekst van een Kamerstuk on-line worden opgehaald en dit wordt getoond in de browser. NB Hier is een internetverbinding voor nodig.
 
-Als alle stukken beoordeeld zijn of men wil er mee stoppen dan kan men de tussen/eindstand zien in het tekstscherm rechtsonder. In het geval men er eerder mee stopt dient men op de knop 'tussen/eindstand' te klikken. De partij(en) met de meeste matches komt het meest overeen met de keuzes van de gebruiker van dit programma.
+Als alle stukken beoordeeld zijn of men wil er mee stoppen dan kan men de tussen/eindstand zien in het tekstscherm rechtsonder. In het geval men er eerder mee stopt dient men op de knop 'tussen/eindstand' te klikken om het resultaat te zien. De partij(en) met de meeste matches komt het meest overeen met de keuzes van de gebruiker van dit programma.
 
 Als de checkbox 'Spieken' wordt aangevinkt dan wordt informatie gegeven waar zojuist over gestemd is (dus achteraf..). 
 
 
 Opmerkingen:
 
-Het kan zijn dat men na het downloaden van het Windowsprogramma MotieKiesWijzer.exe een waarschuwing van Windows krijgt. Dit kan men negeren. Eventueel kun je met de CRC informatie in CRC.txt controleren of er iets aan het programma veranderd is.  
+Het kan zijn dat men na het downloaden van het Windowsprogramma MotieKiesWijzer.exe een waarschuwing van Windows krijgt. Dit kan men negeren door op 'meer informatie' te klikken en vervolgens op 'Toch uitvoeren' te klikken. Eventueel kun je met de CRC informatie in CRC.txt controleren of er iets aan het programma veranderd is. Uiteraard kun je na het downloaden ook een viruschecker op het programma loslaten. 
 
 
 Veel plezier er mee.
