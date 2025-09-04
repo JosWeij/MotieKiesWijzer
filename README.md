@@ -1,7 +1,9 @@
+Om het programma MotieKiesWijzer te download: Klik op 'MotieKiesWijzer.exe' en in het volgende scherm op het 'download' knopje. 
 
-Het MotieKiesWijzer (Windows) programma is een kieshulp voor de TweedeKamer-verkiezingen in november 2025.
 
-De hulp is niet gebaseerd op plannen/voornemens/beloften van de verschillende politieke partijen maar op het daadwerkelijke stemgedrag van partijen in de Tweede Kamer aangaande moties en amendementen van het afgelopen jaar (tot 20250801 volgens Openkamer.org). Dus wat ze in de praktijk doen.
+Het MotieKiesWijzer (Windows) programma is een kieshulp voor de TweedeKamer-verkiezingen in october 2025.
+
+De hulp is niet gebaseerd op plannen/voornemens/beloften/mooie woorden van de verschillende politieke partijen maar op het daadwerkelijke stemgedrag van partijen in de Tweede Kamer aangaande moties en amendementen van het afgelopen jaar (tot ~20250801 volgens Openkamer.org). Dus wat ze ondanks de mooie voornemens in de praktijk doen.
 
 Het geeft dus alleen hulp voor bestaande partijen die nu (2025/08) in de kamer zitten.
 
