@@ -27,7 +27,7 @@ Als de checkbox 'Spieken' wordt aangevinkt dan wordt informatie gegeven waar zoj
 
 Opmerkingen:
 
-Het kan zijn dat men na het downloaden van het Windowsprogramma MotieKiesWijzer.exe een waarschuwing van Windows krijgt. Dit kan men negeren door op 'meer informatie' te klikken en vervolgens op 'Toch uitvoeren' te klikken. Eventueel kun je met de CRC informatie in CRC.txt controleren of er iets aan het programma veranderd is. Uiteraard kun je na het downloaden ook een viruschecker op het programma loslaten. 
+Het kan zijn dat men na het downloaden van het Windowsprogramma MotieKiesWijzer.exe een waarschuwing van Windows krijgt. Dit kan men negeren door op 'meer informatie' te klikken en vervolgens op 'Toch uitvoeren' te klikken. Eventueel kun je met de CRC informatie in CRC.txt controleren of er iets aan het programma veranderd is. Uiteraard kun je na het downloaden ook een viruschecker op het programma loslaten of het programma uitvoeren in een 'Sandbox' of Virtual machine. 
 
 
 Veel plezier er mee.
