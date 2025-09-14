@@ -1,11 +1,12 @@
-Om het programma MotieKiesWijzer te downloaden: Klik op 'MotieKiesWijzer.exe' en in het volgende scherm op het 'download' knopje. 
+Om het programma MotieKiesWijzer te gebruiken: Download het bestand 'MotieKiesWijzer.zip' en pak het uit in een geselecteerde map. Vervolgens dubbelklik op het bestand 'MotieKiesWijzer.exe' in de juist geselecteerde map. 
+
 
 
 Het MotieKiesWijzer (Windows) programma is een kieshulp voor de TweedeKamer-verkiezingen in october 2025.
 
-De hulp is niet gebaseerd op plannen/voornemens/beloften/mooie woorden van de verschillende politieke partijen maar op het daadwerkelijke stemgedrag van partijen in de Tweede Kamer aangaande moties en amendementen van het afgelopen jaar (tot ~20250801 volgens Openkamer.org). Dus wat ze ondanks de mooie voornemens in de praktijk doen.
+De hulp is niet gebaseerd op plannen/voornemens/beloften/mooie woorden van de verschillende politieke partijen maar op het daadwerkelijke stemgedrag van partijen in de Tweede Kamer aangaande moties en amendementen van het afgelopen jaar (tot ~20250801 volgens Openkamer.org). Dus wat de partijen ondanks de mooie woorden/voornemens daadwerkelijk in de praktijk doen.
 
-Het geeft dus alleen hulp voor bestaande partijen die nu (2025/08) in de kamer zitten.
+Het geeft dus alleen hulp voor bestaande partijen die nu (~2025/08) in de kamer zitten.
 
 Het programma moet gezien worden als een vingeroefening. Het is niet monkey proof. En ook kunnen geen enkele claims ingediend worden. Het is as-is.
 
@@ -27,7 +28,7 @@ Als de checkbox 'Spieken' wordt aangevinkt dan wordt informatie gegeven waar zoj
 
 Opmerkingen:
 
-Het kan zijn dat men na het downloaden van het Windowsprogramma MotieKiesWijzer.exe een waarschuwing van Windows krijgt. Dit kan men negeren door op 'meer informatie' te klikken en vervolgens op 'Toch uitvoeren' te klikken. Eventueel kun je met de CRC informatie in CRC.txt controleren of er iets aan het programma veranderd is. Uiteraard kun je na het downloaden ook een viruschecker op het programma loslaten of het programma uitvoeren in een 'Sandbox' of Virtual machine. 
+Het kan zijn dat men na het downloaden/uitpakken van het Windowsprogramma MotieKiesWijzer.exe een waarschuwing van Windows krijgt. Dit kan men negeren door op 'meer informatie' te klikken en vervolgens op 'Toch uitvoeren' te klikken. Eventueel kun je met de CRC informatie in CRC.txt controleren of er iets aan het programma veranderd is. Uiteraard kun je na het downloaden ook een viruschecker op het programma loslaten of het programma uitvoeren in een 'Sandbox' of Virtual machine. 
 
 
 Veel plezier er mee.
