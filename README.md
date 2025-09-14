@@ -1,4 +1,4 @@
-Om het programma MotieKiesWijzer te gebruiken: Download het bestand 'MotieKiesWijzer.zip' en pak het uit in een geselecteerde map. Vervolgens dubbelklik op het bestand 'MotieKiesWijzer.exe' in de juist geselecteerde map. 
+Om het programma MotieKiesWijzer te gebruiken: Download het bestand 'MotieKiesWijzer.zip'door er op te klikken en vervolgens op het downloadsymbooltje te klikken. Pak het zip-bestand uit in een geselecteerde map. Vervolgens dubbelklik op het bestand 'MotieKiesWijzer.exe' in de zojuist geselecteerde map. 
 
 
 
